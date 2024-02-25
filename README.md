@@ -11,6 +11,7 @@ Technology Used:- JAVA, AWT & Swing
 Tools Used:- Apache Net-Beans for Coding
 JDBC for database Connectivity
 Database:- MYSQL for Storing Transaction history
+In this project Database is not provided .
 
 
 
